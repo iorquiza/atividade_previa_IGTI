@@ -1,8 +1,11 @@
-# atividade_previa_IGTI
-Repositorio para a atividade previa IGTI
+# atividade_previa_IGTI Iven Orquiza
+
+React Hooks + Redux - Registro de usuario e Login
+Clone inicial do repositorio de Jason Watmore, diponivel em
+https://jasonwatmore.com/post/2020/03/02/react-hooks-redux-user-registration-and-login-tutorial-example
 
 Para rodar a aplicação:
-<li>1 Install NodeJS and NPM from https://nodejs.org/en/download/.</li>
-<li>2 Download or clone the project source code from https://github.com/iorquiza/atividade_previa_IGTI</li>
-<li>3 Install all required npm packages by running npm install from the command line in the project root folder (where the package.json is located).</li>
-<li>4 Start the application by running npm start from the command line in the project root folder, this will launch a browser displaying the application.</li>
+1 Instaar o NodeJS e NPM  https://nodejs.org/en/download/.
+2 Download ou clone o projeto a partir de  https://github.com/iorquiza/atividade_previa_IGTI
+3 Instale com npm install ou yarn install da raiz do diretorio clone (onde estiver o package.json).
+4 Comece com npm start ou yarn start pela linha de comando.
