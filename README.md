@@ -1,4 +1,4 @@
-# atividade_previa_IGTI Iven Orquiza
+# atividade_previa_IGTI Ivan Orquiza
 
 React Hooks + Redux - Registro de usuario e Login
 Clone inicial do repositorio de Jason Watmore, diponivel em
